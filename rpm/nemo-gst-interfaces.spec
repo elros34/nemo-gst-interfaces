@@ -1,6 +1,6 @@
 Name:           nemo-gst-interfaces
 Summary:        Nemo mobile GStreamer interfaces
-Version:        1.0.0
+Version:        0.20200500.0+fake
 Release:        1
 Group:          Applications/Multimedia
 License:        LGPLv2+
